@@ -1,3 +1,3 @@
-module github.com/prakasiwi/belajar-golang.git
+module github.com/prakasiwi/belajar-golang
 
 go 1.17
